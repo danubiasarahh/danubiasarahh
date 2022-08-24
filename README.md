@@ -1,9 +1,9 @@
-# sobre eu
+# sobre eu :cactus:
 
 - 👋 oii, meu nome é Sarah Danubia.
 - 👀 eu nunca tive interesse na parte de programaçao,pois não gosto de mexer em computador e etc...
-- 🌱 no momento estamos aprendendo a trabalhar com o README.md, GitHub.
-- 💞️ mesmo que eu não goste de programaçao é legal colaborar e aprender um pouco sobre isso.
+- :shamrock: no momento estamos aprendendo a trabalhar com o README.md, GitHub.
+- :speech_balloon: mesmo que eu não goste de programaçao é legal colaborar e aprender um pouco sobre isso.
 - 📫 danubiasarah@gmail.com
 
 <!---
